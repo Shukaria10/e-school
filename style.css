@@ -1,0 +1,94 @@
+.container{
+    
+    margin-bottom: 100px;
+}
+.ractangle{
+
+    background-color: #F0FFF0;
+    
+}
+.item{
+   
+        height: 400px;
+        width: 500px;
+    
+}
+.item img{
+    width: 100%;
+}
+h3{
+    color: orangered;
+}
+.c-h1{
+    font-size: 80px;
+    font-family: 'Anton', sans-serif;
+}
+.any-color{
+    color: rgb(31, 150, 84);
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    
+}
+.logo img{
+    width: 200%;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#069960 0%,#0eb352 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 40px;
+    cursor: pointer;
+    
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+    padding: 2px 4px;
+    
+   
+}
+.small-img{
+    height: 100px;
+    width: 100px;
+}
+.card-title2{
+    text-align: center;
+}
+.card-photo{
+    height: 300px;
+    width: 320px;
+    margin: 10px;
+}
+.categor{
+    text-align: center;
+
+}
+.categor img{
+    height: 100px;
+    width: 100px;
+}
+p{
+    text-align: justify;
+}
+.testimonial{
+ margin-top: 100px;
+}
+.sky-bg{
+    background-color: #a0fcc3;
+    border-radius: 10px;
+    color: goldenrod;
+    height: 200px;
+}
+.foot-color{
+    background-color: rgb(56, 13, 65);
+   color: ivory;
+   height: 300px;
+   padding-top: 40px;
+}
+footer{
+    text-align: center;
+}
